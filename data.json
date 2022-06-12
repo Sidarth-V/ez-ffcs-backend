@@ -1,0 +1,3979 @@
+[{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500015",
+  "roomNumber": "SMV101",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500016",
+  "roomNumber": "TT531A",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500017",
+  "roomNumber": "SMV101",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500018",
+  "roomNumber": "TT531A",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500019",
+  "roomNumber": "SMV102",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500020",
+  "roomNumber": "SMV102",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500021",
+  "roomNumber": "SJT203",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500022",
+  "roomNumber": "SMV104",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500023",
+  "roomNumber": "SJT203",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500024",
+  "roomNumber": "SMV104",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500025",
+  "roomNumber": "SJT205",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500026",
+  "roomNumber": "SJT205",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500027",
+  "roomNumber": "MB110",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500028",
+  "roomNumber": "SJT207A",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500029",
+  "roomNumber": "MB110",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500030",
+  "roomNumber": "SJT207A",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500031",
+  "roomNumber": "TT423",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500032",
+  "roomNumber": "SJT401",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500033",
+  "roomNumber": "MB111",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500034",
+  "roomNumber": "SJT401",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500035",
+  "roomNumber": "TT423",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500036",
+  "roomNumber": "MB111",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500037",
+  "roomNumber": "SJT402",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500038",
+  "roomNumber": "SJT402",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500039",
+  "roomNumber": "MB124",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500040",
+  "roomNumber": "SJT403",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500041",
+  "roomNumber": "MB124",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500042",
+  "roomNumber": "TT424",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500043",
+  "roomNumber": "SJT403",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500044",
+  "roomNumber": "TT424",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500045",
+  "roomNumber": "SJT404",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500046",
+  "roomNumber": "MB211",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500047",
+  "roomNumber": "MB211",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500048",
+  "roomNumber": "SJT404",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500049",
+  "roomNumber": "TT621",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500050",
+  "roomNumber": "MB212",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500051",
+  "roomNumber": "SJT405",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500052",
+  "roomNumber": "TT621",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500053",
+  "roomNumber": "MB212",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500054",
+  "roomNumber": "TT630",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500055",
+  "roomNumber": "SJT405",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500056",
+  "roomNumber": "MB213",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500057",
+  "roomNumber": "TT630",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500058",
+  "roomNumber": "SJT323",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500059",
+  "roomNumber": "MB213",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500060",
+  "roomNumber": "SJT323",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500061",
+  "roomNumber": "TT725",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500062",
+  "roomNumber": "TT725",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500063",
+  "roomNumber": "SJT409",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500064",
+  "roomNumber": "SJT409",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500065",
+  "roomNumber": "TT631",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500066",
+  "roomNumber": "SJT415",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500067",
+  "roomNumber": "TT631",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500068",
+  "roomNumber": "SJT415",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500069",
+  "roomNumber": "SJT421",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500070",
+  "roomNumber": "SJT514",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500071",
+  "roomNumber": "SJT421",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500072",
+  "roomNumber": "SJT514",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500073",
+  "roomNumber": "SJT422",
+  "slot": "E1+TE1",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500074",
+  "roomNumber": "SJT521",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500075",
+  "roomNumber": "SJT521",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500076",
+  "roomNumber": "SJT423",
+  "slot": "E1+TE1",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500077",
+  "roomNumber": "SJT522",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500078",
+  "roomNumber": "SJT422",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500079",
+  "roomNumber": "SJT522",
+  "slot": "E2+TE2",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500080",
+  "roomNumber": "SJT423",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500081",
+  "roomNumber": "SJT424",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500082",
+  "roomNumber": "SJT424",
+  "slot": "E2+TE2",
+  "empId": "SMART",
+  "empName": "SMART (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500085",
+  "roomNumber": "SJT324",
+  "slot": "E1+TE1",
+  "empId": "FACE",
+  "empName": "FACE (APT)"
+},{
+  "courseCode": "STS2202",
+  "courseTitle": "Advanced Aptitude and Reasoning Skills",
+  "courseType": "SS",
+  "classId": "VL2021220500086",
+  "roomNumber": "SJT324",
+  "slot": "E2+TE2",
+  "empId": "ETHNUS",
+  "empName": "ETHNUS (APT)"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500219",
+  "roomNumber": "SJT421",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "12530",
+  "empName": "PALANIVEL K"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500220",
+  "roomNumber": "SJT508",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "13429",
+  "empName": "RAGHAVENDAR K"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500221",
+  "roomNumber": "SJT513",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "14075",
+  "empName": "VENKATESWARLU B"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500222",
+  "roomNumber": "SJT514",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "14080",
+  "empName": "NALLIAH M"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500223",
+  "roomNumber": "SJT521",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "14779",
+  "empName": "BALAJI S"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500224",
+  "roomNumber": "SJT522",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "15460",
+  "empName": "POORNIMA T"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500225",
+  "roomNumber": "SJT401",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "15458",
+  "empName": "PRAVEEN T"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500226",
+  "roomNumber": "SJT402",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "15939",
+  "empName": "VEERAMANI S"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500227",
+  "roomNumber": "SJT403",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "17007",
+  "empName": "RAMU GEDDAVALASA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500228",
+  "roomNumber": "SJT404",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "17103",
+  "empName": "BALASUBRAMANI N"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500229",
+  "roomNumber": "SJT505",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "14072",
+  "empName": "YOGALAKSHMI T"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500230",
+  "roomNumber": "SJT508",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "14518",
+  "empName": "RAJASEKARAN G"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500231",
+  "roomNumber": "SJT513",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "14849",
+  "empName": "KALAIVANI K"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500232",
+  "roomNumber": "SJT514",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "15458",
+  "empName": "PRAVEEN T"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500233",
+  "roomNumber": "SJT521",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "15789",
+  "empName": "LAKSHMI NARAYAN MISHRA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500234",
+  "roomNumber": "SJT522",
+  "slot": "C2+TC2+TCC2+V5",
+  "empId": "15939",
+  "empName": "VEERAMANI S"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500235",
+  "roomNumber": "SJT401",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "16196",
+  "empName": "PARVEZ ALAM"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500236",
+  "roomNumber": "SJT402",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "16217",
+  "empName": "PRASAD THEEDA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500238",
+  "roomNumber": "SJT404",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "17007",
+  "empName": "RAMU GEDDAVALASA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500239",
+  "roomNumber": "SJT415",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "13389",
+  "empName": "PURUSOTHAM S"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500240",
+  "roomNumber": "SJT508",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "14072",
+  "empName": "YOGALAKSHMI T"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500241",
+  "roomNumber": "SJT513",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "14518",
+  "empName": "RAJASEKARAN G"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500242",
+  "roomNumber": "SJT403",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "15523",
+  "empName": "GOWRISANKAR A"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500243",
+  "roomNumber": "SJT521",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "18020",
+  "empName": "ANAND PRATAP SINGH"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500244",
+  "roomNumber": "SJT505",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "14080",
+  "empName": "NALLIAH M"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500245",
+  "roomNumber": "SJT508",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "15460",
+  "empName": "POORNIMA T"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500246",
+  "roomNumber": "SJT513",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "15825",
+  "empName": "ASHISH KUMAR PRASAD"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500247",
+  "roomNumber": "SJT514",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "15950",
+  "empName": "PRABHUJIT MOHAPATRA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500248",
+  "roomNumber": "SJT521",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "15955",
+  "empName": "AMRIT DAS"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500249",
+  "roomNumber": "SJT315",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "15918",
+  "empName": "MANJARI SIDHARTH"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500250",
+  "roomNumber": "SJT401",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "16344",
+  "empName": "SUJASREE M"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500251",
+  "roomNumber": "SJT402",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "16345",
+  "empName": "MURUGAN V"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500252",
+  "roomNumber": "SJT403",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "17009",
+  "empName": "CHANDRU M"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500253",
+  "roomNumber": "SJT404",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "18020",
+  "empName": "ANAND PRATAP SINGH"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500254",
+  "roomNumber": "SJT112",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "16163",
+  "empName": "UMAKANTA MISHRA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500255",
+  "roomNumber": "SJT112",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "16185",
+  "empName": "DEBAROTI DAS"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500256",
+  "roomNumber": "SJT112",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "15523",
+  "empName": "GOWRISANKAR A"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500257",
+  "roomNumber": "SJT112",
+  "slot": "C2+TC2+TCC2+V4",
+  "empId": "16163",
+  "empName": "UMAKANTA MISHRA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500258",
+  "roomNumber": "SJT113",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "15955",
+  "empName": "AMRIT DAS"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500259",
+  "roomNumber": "SJT113",
+  "slot": "A2+TA2+TAA2+V3",
+  "empId": "15918",
+  "empName": "MANJARI SIDHARTH"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500260",
+  "roomNumber": "SJT113",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "16384",
+  "empName": "SUMANT KUMAR"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220500261",
+  "roomNumber": "SJT405",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "16196",
+  "empName": "PARVEZ ALAM"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220501128",
+  "roomNumber": "SJT401",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "17100",
+  "empName": "PADIGEPATI NAVEEN"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220501130",
+  "roomNumber": "SJT409",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "16217",
+  "empName": "PRASAD THEEDA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220501131",
+  "roomNumber": "SJT404",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "15789",
+  "empName": "LAKSHMI NARAYAN MISHRA"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220501132",
+  "roomNumber": "SJT315",
+  "slot": "C1+TC1+TCC1+V2",
+  "empId": "13372",
+  "empName": "KARTHIKA K"
+},{
+  "courseCode": "MAT3004",
+  "courseTitle": "Applied Linear Algebra",
+  "courseType": "TH",
+  "classId": "VL2021220501723",
+  "roomNumber": "SJT405",
+  "slot": "A1+TA1+TAA1+V1",
+  "empId": "17008",
+  "empName": "PRAKASH M"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501746",
+  "roomNumber": "SJT302",
+  "slot": "A1+TA1",
+  "empId": "10269",
+  "empName": "SRIMATHI C"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501747",
+  "roomNumber": "SJT322",
+  "slot": "A1+TA1",
+  "empId": "10301",
+  "empName": "SALEEM DURAI M.A"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501763",
+  "roomNumber": "SJT311A",
+  "slot": "C1+TC1",
+  "empId": "10526",
+  "empName": "RAJKUMAR R"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220501799",
+  "roomNumber": "SJT515",
+  "slot": "L55+L56",
+  "empId": "10269",
+  "empName": "SRIMATHI C"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501976",
+  "roomNumber": "SJT323",
+  "slot": "A2+TA2",
+  "empId": "11561",
+  "empName": "SANTHI H"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501990",
+  "roomNumber": "SJT505",
+  "slot": "C1+TC1",
+  "empId": "15269",
+  "empName": "DHEEBA J"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501991",
+  "roomNumber": "SJT423",
+  "slot": "C2+TC2",
+  "empId": "15269",
+  "empName": "DHEEBA J"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220501997",
+  "roomNumber": "SJT315",
+  "slot": "C2+TC2",
+  "empId": "11644",
+  "empName": "SIVANESAN S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502000",
+  "roomNumber": "SJT305",
+  "slot": "A2+TA2",
+  "empId": "11872",
+  "empName": "ANANDA KUMAR S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502062",
+  "roomNumber": "SJT422",
+  "slot": "C2+TC2",
+  "empId": "12497",
+  "empName": "RAJKUMAR S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502091",
+  "roomNumber": "SJT516",
+  "slot": "L43+L44",
+  "empId": "10301",
+  "empName": "SALEEM DURAI M.A"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502105",
+  "roomNumber": "SJT516",
+  "slot": "L41+L42",
+  "empId": "10526",
+  "empName": "RAJKUMAR R"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502163",
+  "roomNumber": "MGB 303",
+  "slot": "C1+TC1",
+  "empId": "11644",
+  "empName": "SIVANESAN S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502232",
+  "roomNumber": "SJT501",
+  "slot": "A1+TA1",
+  "empId": "13703",
+  "empName": "ANURADHA G"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502233",
+  "roomNumber": "SJT415",
+  "slot": "C2+TC2",
+  "empId": "13703",
+  "empName": "ANURADHA G"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502280",
+  "roomNumber": "SJT516",
+  "slot": "L7+L8",
+  "empId": "11561",
+  "empName": "SANTHI H"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502302",
+  "roomNumber": "SJT601",
+  "slot": "C1+TC1",
+  "empId": "14455",
+  "empName": "SASIKALA .R"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502303",
+  "roomNumber": "MGB303",
+  "slot": "C1+TC1",
+  "empId": "14713",
+  "empName": "ILANTHENRAL K P S K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502328",
+  "roomNumber": "SJT416",
+  "slot": "L21+L22",
+  "empId": "11644",
+  "empName": "SIVANESAN S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502329",
+  "roomNumber": "SJT418",
+  "slot": "L37+L38",
+  "empId": "11644",
+  "empName": "SIVANESAN S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502333",
+  "roomNumber": "SJT416",
+  "slot": "L15+L16",
+  "empId": "11872",
+  "empName": "ANANDA KUMAR S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502368",
+  "roomNumber": "MGB105",
+  "slot": "A1+TA1",
+  "empId": "15755",
+  "empName": "JAYAKUMAR K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502388",
+  "roomNumber": "TT206",
+  "slot": "C1+TC1",
+  "empId": "17976",
+  "empName": "VENKATA PHANIKRISHNA B"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502389",
+  "roomNumber": "TT504",
+  "slot": "C1+TC1",
+  "empId": "15761",
+  "empName": "ARIVOLI A"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502390",
+  "roomNumber": "SJT202",
+  "slot": "C2+TC2",
+  "empId": "17976",
+  "empName": "VENKATA PHANIKRISHNA B"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502407",
+  "roomNumber": "TT619",
+  "slot": "C1+TC1",
+  "empId": "15769",
+  "empName": "DEEBAK B D"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502409",
+  "roomNumber": "SJT807",
+  "slot": "C2+TC2",
+  "empId": "15769",
+  "empName": "DEEBAK B D"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502446",
+  "roomNumber": "TT630",
+  "slot": "A1+TA1",
+  "empId": "17965",
+  "empName": "JOHN PAUL MARTIN"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502475",
+  "roomNumber": "MB309",
+  "slot": "C1+TC1",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502477",
+  "roomNumber": "SJT203",
+  "slot": "C2+TC2",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220502588",
+  "roomNumber": "SJT222",
+  "slot": "C2+TC2",
+  "empId": "15761",
+  "empName": "ARIVOLI A"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502592",
+  "roomNumber": "SJT419",
+  "slot": "L23+L24",
+  "empId": "12497",
+  "empName": "RAJKUMAR S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502595",
+  "roomNumber": "SJT416",
+  "slot": "L57+L58",
+  "empId": "15269",
+  "empName": "DHEEBA J"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502598",
+  "roomNumber": "SJT416",
+  "slot": "L3+L4",
+  "empId": "15269",
+  "empName": "DHEEBA J"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502833",
+  "roomNumber": "SJT419",
+  "slot": "L33+L34",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502838",
+  "roomNumber": "SJT416",
+  "slot": "L29+L30",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502863",
+  "roomNumber": "SJTG19",
+  "slot": "L47+L48",
+  "empId": "17965",
+  "empName": "JOHN PAUL MARTIN"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502909",
+  "roomNumber": "SJT316",
+  "slot": "L31+L32",
+  "empId": "13703",
+  "empName": "ANURADHA G"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502914",
+  "roomNumber": "SJT419",
+  "slot": "L19+L20",
+  "empId": "13703",
+  "empName": "ANURADHA G"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502954",
+  "roomNumber": "SJT419",
+  "slot": "L51+L52",
+  "empId": "17976",
+  "empName": "VENKATA PHANIKRISHNA B"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220502957",
+  "roomNumber": "SJT419",
+  "slot": "L5+L6",
+  "empId": "17976",
+  "empName": "VENKATA PHANIKRISHNA B"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503159",
+  "roomNumber": "SJT417",
+  "slot": "L51+L52",
+  "empId": "14455",
+  "empName": "SASIKALA .R"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503160",
+  "roomNumber": "SJT417",
+  "slot": "L55+L56",
+  "empId": "14713",
+  "empName": "ILANTHENRAL K P S K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503204",
+  "roomNumber": "SJTG18",
+  "slot": "L53+L54",
+  "empId": "15755",
+  "empName": "JAYAKUMAR K"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503222",
+  "roomNumber": "SJT416",
+  "slot": "L1+L2",
+  "empId": "15769",
+  "empName": "DEEBAK B D"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503224",
+  "roomNumber": "SJT122",
+  "slot": "L37+L38",
+  "empId": "15769",
+  "empName": "DEEBAK B D"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220503230",
+  "roomNumber": "SJT807",
+  "slot": "C1+TC1",
+  "empId": "12386",
+  "empName": "YOKESH BABU S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ETH",
+  "classId": "VL2021220503231",
+  "roomNumber": "SJT308",
+  "slot": "C2+TC2",
+  "empId": "12386",
+  "empName": "YOKESH BABU S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503236",
+  "roomNumber": "SJT418",
+  "slot": "L35+L36",
+  "empId": "15761",
+  "empName": "ARIVOLI A"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503237",
+  "roomNumber": "MGB107",
+  "slot": "L47+L48",
+  "empId": "12386",
+  "empName": "YOKESH BABU S"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503238",
+  "roomNumber": "SJT419",
+  "slot": "L7+L8",
+  "empId": "15761",
+  "empName": "ARIVOLI A"
+},{
+  "courseCode": "CSE1004",
+  "courseTitle": "Network and Communication",
+  "courseType": "ELA",
+  "classId": "VL2021220503240",
+  "roomNumber": "SJT419",
+  "slot": "L15+L16",
+  "empId": "12386",
+  "empName": "YOKESH BABU S"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502128",
+  "roomNumber": "SJT501",
+  "slot": "C1+TC1",
+  "empId": "12566",
+  "empName": "JAYAKUMAR S"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502133",
+  "roomNumber": "SJT501",
+  "slot": "A2+TA2",
+  "empId": "13299",
+  "empName": "KRISHNAMOORTHY A"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502398",
+  "roomNumber": "MGB201",
+  "slot": "A1+TA1",
+  "empId": "15766",
+  "empName": "USHA K"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502399",
+  "roomNumber": "MGB109",
+  "slot": "A2+TA2",
+  "empId": "15766",
+  "empName": "USHA K"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502435",
+  "roomNumber": "MGB110",
+  "slot": "A1+TA1",
+  "empId": "15771",
+  "empName": "JOTHI K R"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502436",
+  "roomNumber": "MGB202",
+  "slot": "A2+TA2",
+  "empId": "15771",
+  "empName": "JOTHI K R"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502450",
+  "roomNumber": "MGB305",
+  "slot": "A1+TA1",
+  "empId": "15776",
+  "empName": "LOKESH KUMAR R"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502481",
+  "roomNumber": "MB226",
+  "slot": "A1+TA1",
+  "empId": "15833",
+  "empName": "THENMOZHI T"
+},{
+  "courseCode": "CSE1006",
+  "courseTitle": "Blockchain and Cryptocurrency Technologies",
+  "courseType": "TH",
+  "classId": "VL2021220502482",
+  "roomNumber": "TT631",
+  "slot": "A2+TA2",
+  "empId": "15833",
+  "empName": "THENMOZHI T"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220500806",
+  "roomNumber": "SJT207A",
+  "slot": "D1+TD1",
+  "empId": "10134",
+  "empName": "BIMAL KUMAR RAY"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220500807",
+  "roomNumber": "SJTG20",
+  "slot": "L57+L58",
+  "empId": "10134",
+  "empName": "BIMAL KUMAR RAY"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220500808",
+  "roomNumber": "SJT115",
+  "slot": "D2+TD2",
+  "empId": "10134",
+  "empName": "BIMAL KUMAR RAY"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220500809",
+  "roomNumber": "SJTG19",
+  "slot": "L27+L28",
+  "empId": "10134",
+  "empName": "BIMAL KUMAR RAY"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220500813",
+  "roomNumber": "SJT125",
+  "slot": "D2+TD2",
+  "empId": "11441",
+  "empName": "ANITHA A"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220500814",
+  "roomNumber": "SJTG17",
+  "slot": "L19+L20",
+  "empId": "11441",
+  "empName": "ANITHA A"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220501960",
+  "roomNumber": "SJT405",
+  "slot": "B1+TB1",
+  "empId": "11226",
+  "empName": "VARALAKSHMI M"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220501961",
+  "roomNumber": "SJT305",
+  "slot": "B2+TB2",
+  "empId": "11226",
+  "empName": "VARALAKSHMI M"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502005",
+  "roomNumber": "SJT423",
+  "slot": "B1+TB1",
+  "empId": "11941",
+  "empName": "MANIKANDAN N"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502022",
+  "roomNumber": "SJT513",
+  "slot": "B1+TB1",
+  "empId": "12338",
+  "empName": "SATISH C.J"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502024",
+  "roomNumber": "SJT403",
+  "slot": "B2+TB2",
+  "empId": "12338",
+  "empName": "SATISH C.J"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502032",
+  "roomNumber": "SJT522",
+  "slot": "B1+TB1",
+  "empId": "12372",
+  "empName": "ARUN KUMAR G"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502033",
+  "roomNumber": "SJT404",
+  "slot": "B2+TB2",
+  "empId": "12372",
+  "empName": "ARUN KUMAR G"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502131",
+  "roomNumber": "SJT501",
+  "slot": "B1+TB1",
+  "empId": "12624",
+  "empName": "NAVEEN KUMAR N"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502132",
+  "roomNumber": "SJT421",
+  "slot": "B2+TB2",
+  "empId": "12624",
+  "empName": "NAVEEN KUMAR N"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502143",
+  "roomNumber": "SJT423",
+  "slot": "B2+TB2",
+  "empId": "13329",
+  "empName": "DEEPIKAA S"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502160",
+  "roomNumber": "MGB 303",
+  "slot": "B1+TB1",
+  "empId": "13338",
+  "empName": "NAGA RAJA G"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502200",
+  "roomNumber": "MGB106",
+  "slot": "B1+TB1",
+  "empId": "13329",
+  "empName": "DEEPIKAA S"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502243",
+  "roomNumber": "SJT419",
+  "slot": "L45+L46",
+  "empId": "11226",
+  "empName": "VARALAKSHMI M"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502244",
+  "roomNumber": "SJT419",
+  "slot": "L13+L14",
+  "empId": "11226",
+  "empName": "VARALAKSHMI M"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502350",
+  "roomNumber": "SJT418",
+  "slot": "L47+L48",
+  "empId": "11941",
+  "empName": "MANIKANDAN N"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502351",
+  "roomNumber": "SJT601",
+  "slot": "A1+TA1",
+  "empId": "15285",
+  "empName": "BALAKRISHNAN P"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502352",
+  "roomNumber": "SJT522",
+  "slot": "A2+TA2",
+  "empId": "15285",
+  "empName": "BALAKRISHNAN P"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502378",
+  "roomNumber": "MGB201",
+  "slot": "B1+TB1",
+  "empId": "18014",
+  "empName": "R VIDHYA"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502442",
+  "roomNumber": "SJT317",
+  "slot": "L27+L28",
+  "empId": "12338",
+  "empName": "SATISH C.J"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502444",
+  "roomNumber": "SJT515",
+  "slot": "L45+L46",
+  "empId": "12338",
+  "empName": "SATISH C.J"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502455",
+  "roomNumber": "MGB304",
+  "slot": "B1+TB1",
+  "empId": "15776",
+  "empName": "LOKESH KUMAR R"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502456",
+  "roomNumber": "SJT508",
+  "slot": "B2+TB2",
+  "empId": "15776",
+  "empName": "LOKESH KUMAR R"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502487",
+  "roomNumber": "SJT515",
+  "slot": "L13+L14",
+  "empId": "12372",
+  "empName": "ARUN KUMAR G"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502488",
+  "roomNumber": "SJT516",
+  "slot": "L55+L56",
+  "empId": "12372",
+  "empName": "ARUN KUMAR G"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502501",
+  "roomNumber": "SJT601",
+  "slot": "B1+TB1",
+  "empId": "15927",
+  "empName": "CHELLATAMILAN T"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502502",
+  "roomNumber": "SJT513",
+  "slot": "B2+TB2",
+  "empId": "15927",
+  "empName": "CHELLATAMILAN T"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502566",
+  "roomNumber": "SJT409",
+  "slot": "B2+TB2",
+  "empId": "16411",
+  "empName": "VISHNU SRINIVASA MURTHY Y"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502576",
+  "roomNumber": "MB218",
+  "slot": "B1+TB1",
+  "empId": "16411",
+  "empName": "VISHNU SRINIVASA MURTHY Y"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502596",
+  "roomNumber": "SJT418",
+  "slot": "L31+L32",
+  "empId": "16411",
+  "empName": "VISHNU SRINIVASA MURTHY Y"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502597",
+  "roomNumber": "SJT621",
+  "slot": "L23+L24",
+  "empId": "16411",
+  "empName": "VISHNU SRINIVASA MURTHY Y"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502614",
+  "roomNumber": "SJT418",
+  "slot": "L25+L26",
+  "empId": "12624",
+  "empName": "NAVEEN KUMAR N"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502617",
+  "roomNumber": "SJT318",
+  "slot": "L39+L40",
+  "empId": "12624",
+  "empName": "NAVEEN KUMAR N"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502631",
+  "roomNumber": "SJT417",
+  "slot": "L43+L44",
+  "empId": "15776",
+  "empName": "LOKESH KUMAR R"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502633",
+  "roomNumber": "SJT418",
+  "slot": "L21+L22",
+  "empId": "15776",
+  "empName": "LOKESH KUMAR R"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502649",
+  "roomNumber": "SJT516",
+  "slot": "L13+L14",
+  "empId": "13329",
+  "empName": "DEEPIKAA S"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502650",
+  "roomNumber": "SJT416",
+  "slot": "L55+L56",
+  "empId": "13329",
+  "empName": "DEEPIKAA S"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502864",
+  "roomNumber": "SJT417",
+  "slot": "L45+L46",
+  "empId": "13338",
+  "empName": "NAGA RAJA G"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502958",
+  "roomNumber": "SJT517",
+  "slot": "L53+L54",
+  "empId": "18014",
+  "empName": "R VIDHYA"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503169",
+  "roomNumber": "SJT517",
+  "slot": "L59+L60",
+  "empId": "15927",
+  "empName": "CHELLATAMILAN T"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503170",
+  "roomNumber": "SJT517",
+  "slot": "L9+L10",
+  "empId": "15927",
+  "empName": "CHELLATAMILAN T"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503173",
+  "roomNumber": "SJT517",
+  "slot": "L21+L22",
+  "empId": "15285",
+  "empName": "BALAKRISHNAN P"
+},{
+  "courseCode": "CSE1007",
+  "courseTitle": "Java Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503178",
+  "roomNumber": "SJT316",
+  "slot": "L33+L34",
+  "empId": "15285",
+  "empName": "BALAKRISHNAN P"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220501757",
+  "roomNumber": "SJT305",
+  "slot": "F2",
+  "empId": "10483",
+  "empName": "ANBARASI M"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220501953",
+  "roomNumber": "SJT311A",
+  "slot": "F1",
+  "empId": "11125",
+  "empName": "MOHAN KUMAR P"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220501983",
+  "roomNumber": "SJT401",
+  "slot": "F2",
+  "empId": "11585",
+  "empName": "KAUSER AHMED P"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502031",
+  "roomNumber": "SJT404",
+  "slot": "F1",
+  "empId": "12357",
+  "empName": "SRIVANI A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502046",
+  "roomNumber": "SJT311A",
+  "slot": "F2",
+  "empId": "12390",
+  "empName": "RISHIN HALDAR"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502098",
+  "roomNumber": "SJT316",
+  "slot": "L27+L28",
+  "empId": "10483",
+  "empName": "ANBARASI M"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502221",
+  "roomNumber": "SJT416",
+  "slot": "L47+L48",
+  "empId": "11125",
+  "empName": "MOHAN KUMAR P"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502253",
+  "roomNumber": "SJT501",
+  "slot": "F1",
+  "empId": "13714",
+  "empName": "NAGARAJA RAO A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502254",
+  "roomNumber": "SJT405",
+  "slot": "F2",
+  "empId": "13714",
+  "empName": "NAGARAJA RAO A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502301",
+  "roomNumber": "SJT317",
+  "slot": "L9+L10",
+  "empId": "11585",
+  "empName": "KAUSER AHMED P"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502411",
+  "roomNumber": "SJT311",
+  "slot": "C2",
+  "empId": "17973",
+  "empName": "SANTHANAM RAGHAVAN"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502432",
+  "roomNumber": "SJT521",
+  "slot": "F1",
+  "empId": "17968",
+  "empName": "JUSTIN GOPINATH A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502480",
+  "roomNumber": "SJT416",
+  "slot": "L33+L34",
+  "empId": "12357",
+  "empName": "SRIVANI A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502538",
+  "roomNumber": "SJT416",
+  "slot": "L25+L26",
+  "empId": "12390",
+  "empName": "RISHIN HALDAR"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502601",
+  "roomNumber": "SJT516",
+  "slot": "L15+L16",
+  "empId": "17973",
+  "empName": "SANTHANAM RAGHAVAN"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502893",
+  "roomNumber": "SJT517",
+  "slot": "L47+L48",
+  "empId": "17968",
+  "empName": "JUSTIN GOPINATH A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502929",
+  "roomNumber": "SJT316",
+  "slot": "L25+L26",
+  "empId": "13714",
+  "empName": "NAGARAJA RAO A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502931",
+  "roomNumber": "SJT317",
+  "slot": "L55+L56",
+  "empId": "13714",
+  "empName": "NAGARAJA RAO A"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220503267",
+  "roomNumber": "MGB202",
+  "slot": "C1",
+  "empId": "12330",
+  "empName": "MURALI S"
+},{
+  "courseCode": "CSE2010",
+  "courseTitle": "Advanced C Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503350",
+  "roomNumber": "MGB107",
+  "slot": "L37+L38",
+  "empId": "12330",
+  "empName": "MURALI S"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220501801",
+  "roomNumber": "SJT311",
+  "slot": "G1+TG1",
+  "empId": "11104",
+  "empName": "LAKSHMANAN K"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220501951",
+  "roomNumber": "SJT311",
+  "slot": "G2+TG2",
+  "empId": "11109",
+  "empName": "VISWANATHAN P"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220501957",
+  "roomNumber": "SJT315",
+  "slot": "G1+TG1",
+  "empId": "11174",
+  "empName": "SHALINI L"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220501958",
+  "roomNumber": "SJT401",
+  "slot": "G2+TG2",
+  "empId": "11174",
+  "empName": "SHALINI L"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220501988",
+  "roomNumber": "SJT423",
+  "slot": "G1+TG1",
+  "empId": "15249",
+  "empName": "SATHIYA KUMAR C"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220501989",
+  "roomNumber": "SJT423",
+  "slot": "G2+TG2",
+  "empId": "15249",
+  "empName": "SATHIYA KUMAR C"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502016",
+  "roomNumber": "SJT405",
+  "slot": "G1+TG1",
+  "empId": "11991",
+  "empName": "ANNAPURNA JONNALAGADDA"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502035",
+  "roomNumber": "SJT402",
+  "slot": "G2+TG2",
+  "empId": "12378",
+  "empName": "KANNADASAN R"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502153",
+  "roomNumber": "SJT501",
+  "slot": "G1+TG1",
+  "empId": "13306",
+  "empName": "PRABAKARAN N"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502155",
+  "roomNumber": "SJT323",
+  "slot": "G2+TG2",
+  "empId": "13306",
+  "empName": "PRABAKARAN N"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502313",
+  "roomNumber": "SJT513",
+  "slot": "G1+TG1",
+  "empId": "14723",
+  "empName": "SANTHI K"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502314",
+  "roomNumber": "SJT405",
+  "slot": "G2+TG2",
+  "empId": "14723",
+  "empName": "SANTHI K"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502315",
+  "roomNumber": "SJT514",
+  "slot": "G1+TG1",
+  "empId": "14794",
+  "empName": "GUNAVATHI C"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502316",
+  "roomNumber": "SJT424",
+  "slot": "G2+TG2",
+  "empId": "14794",
+  "empName": "GUNAVATHI C"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502334",
+  "roomNumber": "MB214",
+  "slot": "G1+TG1",
+  "empId": "15260",
+  "empName": "NAVAMANI T M"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502337",
+  "roomNumber": "SJT501",
+  "slot": "G2+TG2",
+  "empId": "15260",
+  "empName": "NAVAMANI T M"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502451",
+  "roomNumber": "MGB303",
+  "slot": "G1+TG1",
+  "empId": "17093",
+  "empName": "SIVASANKARI S"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502454",
+  "roomNumber": "SJT502",
+  "slot": "G2+TG2",
+  "empId": "17093",
+  "empName": "SIVASANKARI S"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220502483",
+  "roomNumber": "SJT504",
+  "slot": "G1+TG1",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220503344",
+  "roomNumber": "SJT323",
+  "slot": "G1+TG1",
+  "empId": "18409",
+  "empName": "VISHNUPRIYA"
+},{
+  "courseCode": "CSE2013",
+  "courseTitle": "Theory of Computation",
+  "courseType": "TH",
+  "classId": "VL2021220503345",
+  "roomNumber": "SJT508",
+  "slot": "G2+TG2",
+  "empId": "18409",
+  "empName": "VISHNUPRIYA"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ETH",
+  "classId": "VL2021220501686",
+  "roomNumber": "SJT323",
+  "slot": "A1",
+  "empId": "10619",
+  "empName": "RAMESH BABU K"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ELA",
+  "classId": "VL2021220501717",
+  "roomNumber": "SJT417",
+  "slot": "L31+L32",
+  "empId": "10619",
+  "empName": "RAMESH BABU K"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "EPJ",
+  "classId": "VL2021220501718",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "10619",
+  "empName": "RAMESH BABU K"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ETH",
+  "classId": "VL2021220501728",
+  "roomNumber": "SJT302",
+  "slot": "A2",
+  "empId": "10167",
+  "empName": "MANJULA R"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ETH",
+  "classId": "VL2021220501750",
+  "roomNumber": "SJT311A",
+  "slot": "A2",
+  "empId": "10321",
+  "empName": "SWARNALATHA P"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ELA",
+  "classId": "VL2021220501782",
+  "roomNumber": "SJT417",
+  "slot": "L11+L12",
+  "empId": "10167",
+  "empName": "MANJULA R"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "EPJ",
+  "classId": "VL2021220501783",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "10167",
+  "empName": "MANJULA R"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ELA",
+  "classId": "VL2021220502092",
+  "roomNumber": "SJT417",
+  "slot": "L9+L10",
+  "empId": "10321",
+  "empName": "SWARNALATHA P"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "EPJ",
+  "classId": "VL2021220502093",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "10321",
+  "empName": "SWARNALATHA P"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ETH",
+  "classId": "VL2021220502530",
+  "roomNumber": "MGB110",
+  "slot": "A2",
+  "empId": "16188",
+  "empName": "ANAND BIHARI"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "ELA",
+  "classId": "VL2021220502652",
+  "roomNumber": "SJT417",
+  "slot": "L7+L8",
+  "empId": "16188",
+  "empName": "ANAND BIHARI"
+},{
+  "courseCode": "CSE3001",
+  "courseTitle": "Software Engineering",
+  "courseType": "EPJ",
+  "classId": "VL2021220502653",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "16188",
+  "empName": "ANAND BIHARI"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220503376",
+  "roomNumber": "SJT311A",
+  "slot": "B1",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220503377",
+  "roomNumber": "SJT424",
+  "slot": "B1",
+  "empId": "11983",
+  "empName": "ARCHANA T"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220503378",
+  "roomNumber": "SJT324",
+  "slot": "B2",
+  "empId": "11983",
+  "empName": "ARCHANA T"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220503379",
+  "roomNumber": "MGB110",
+  "slot": "B1",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220503380",
+  "roomNumber": "SJT224",
+  "slot": "B2",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503381",
+  "roomNumber": "SJT316",
+  "slot": "L49+L50",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220503382",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503383",
+  "roomNumber": "SJT416",
+  "slot": "L11+L12",
+  "empId": "11983",
+  "empName": "ARCHANA T"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220503384",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11983",
+  "empName": "ARCHANA T"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503385",
+  "roomNumber": "SJT516",
+  "slot": "L45+L46",
+  "empId": "11983",
+  "empName": "ARCHANA T"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220503386",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11983",
+  "empName": "ARCHANA T"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503387",
+  "roomNumber": "SJT517",
+  "slot": "L27+L28",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220503388",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220503389",
+  "roomNumber": "SJT418",
+  "slot": "L53+L54",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3002",
+  "courseTitle": "Internet and Web Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220503390",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "ETH",
+  "classId": "VL2021220502028",
+  "roomNumber": "SJT521",
+  "slot": "B1+TB1",
+  "empId": "12354",
+  "empName": "DEEPA.K"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "EPJ",
+  "classId": "VL2021220502029",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "12354",
+  "empName": "DEEPA.K"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "ETH",
+  "classId": "VL2021220502384",
+  "roomNumber": "SJT323",
+  "slot": "B1+TB1",
+  "empId": "17977",
+  "empName": "SARASWATHI PRIYADHARSHINI A"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "EPJ",
+  "classId": "VL2021220502385",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "17977",
+  "empName": "SARASWATHI PRIYADHARSHINI A"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "ETH",
+  "classId": "VL2021220502386",
+  "roomNumber": "SJT424",
+  "slot": "B2+TB2",
+  "empId": "17977",
+  "empName": "SARASWATHI PRIYADHARSHINI A"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "EPJ",
+  "classId": "VL2021220502387",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "17977",
+  "empName": "SARASWATHI PRIYADHARSHINI A"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "ETH",
+  "classId": "VL2021220502462",
+  "roomNumber": "SJT504",
+  "slot": "B2+TB2",
+  "empId": "15785",
+  "empName": "NARAYANAN PRASANTH"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "EPJ",
+  "classId": "VL2021220502463",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15785",
+  "empName": "NARAYANAN PRASANTH"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "ETH",
+  "classId": "VL2021220502515",
+  "roomNumber": "MGB305",
+  "slot": "B1+TB1",
+  "empId": "16106",
+  "empName": "SELVI M"
+},{
+  "courseCode": "CSE3009",
+  "courseTitle": "Internet of Things",
+  "courseType": "EPJ",
+  "classId": "VL2021220502516",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "16106",
+  "empName": "SELVI M"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220501954",
+  "roomNumber": "SJT404",
+  "slot": "B1+TB1",
+  "empId": "11125",
+  "empName": "MOHAN KUMAR P"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220501955",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11125",
+  "empName": "MOHAN KUMAR P"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220501965",
+  "roomNumber": "SJT311A",
+  "slot": "B2+TB2",
+  "empId": "14055",
+  "empName": "GERALDINE BESSIE AMALI D"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220501966",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "14055",
+  "empName": "GERALDINE BESSIE AMALI D"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502013",
+  "roomNumber": "SJT508",
+  "slot": "B1+TB1",
+  "empId": "11989",
+  "empName": "SHARMILA BANU K"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502014",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11989",
+  "empName": "SHARMILA BANU K"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502049",
+  "roomNumber": "SJT421",
+  "slot": "A1+TA1",
+  "empId": "12411",
+  "empName": "RAJESHKANNAN R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502050",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "12411",
+  "empName": "RAJESHKANNAN R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502052",
+  "roomNumber": "SJT421",
+  "slot": "A2+TA2",
+  "empId": "12411",
+  "empName": "RAJESHKANNAN R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502053",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "12411",
+  "empName": "RAJESHKANNAN R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502330",
+  "roomNumber": "MB219",
+  "slot": "B1+TB1",
+  "empId": "15257",
+  "empName": "SHASHANK MOULI SATAPATHY"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502331",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15257",
+  "empName": "SHASHANK MOULI SATAPATHY"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502359",
+  "roomNumber": "SJT322",
+  "slot": "B1+TB1",
+  "empId": "15387",
+  "empName": "DELHI BABU R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502360",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15387",
+  "empName": "DELHI BABU R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502361",
+  "roomNumber": "SJT501",
+  "slot": "B2+TB2",
+  "empId": "15387",
+  "empName": "DELHI BABU R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502362",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15387",
+  "empName": "DELHI BABU R"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502372",
+  "roomNumber": "SJT807",
+  "slot": "A2+TA2",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502373",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "18016",
+  "empName": "SRIDHAR RAJ S"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502400",
+  "roomNumber": "MGB202",
+  "slot": "B1+TB1",
+  "empId": "15766",
+  "empName": "USHA K"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502401",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15766",
+  "empName": "USHA K"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502466",
+  "roomNumber": "SJT505",
+  "slot": "B2+TB2",
+  "empId": "15820",
+  "empName": "ANTO S"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502467",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15820",
+  "empName": "ANTO S"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502540",
+  "roomNumber": "SJT401",
+  "slot": "B1+TB1",
+  "empId": "16397",
+  "empName": "GOPALAKRISHNAN T"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502541",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "16397",
+  "empName": "GOPALAKRISHNAN T"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "ETH",
+  "classId": "VL2021220502542",
+  "roomNumber": "SJT521",
+  "slot": "B2+TB2",
+  "empId": "16397",
+  "empName": "GOPALAKRISHNAN T"
+},{
+  "courseCode": "CSE3013",
+  "courseTitle": "Artificial Intelligence",
+  "courseType": "EPJ",
+  "classId": "VL2021220502543",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "16397",
+  "empName": "GOPALAKRISHNAN T"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ETH",
+  "classId": "VL2021220501722",
+  "roomNumber": "SJT422",
+  "slot": "D1",
+  "empId": "10093",
+  "empName": "MARGRET ANOUNCIA S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ELA",
+  "classId": "VL2021220501774",
+  "roomNumber": "SJT418",
+  "slot": "L43+L44",
+  "empId": "10093",
+  "empName": "MARGRET ANOUNCIA S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "EPJ",
+  "classId": "VL2021220501775",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "10093",
+  "empName": "MARGRET ANOUNCIA S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ETH",
+  "classId": "VL2021220502464",
+  "roomNumber": "MGB105",
+  "slot": "D1",
+  "empId": "17029",
+  "empName": "VENGADESWARAN S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ETH",
+  "classId": "VL2021220502465",
+  "roomNumber": "SJT203",
+  "slot": "D2",
+  "empId": "17029",
+  "empName": "VENGADESWARAN S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ETH",
+  "classId": "VL2021220502478",
+  "roomNumber": "SJT503",
+  "slot": "G2",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ETH",
+  "classId": "VL2021220502510",
+  "roomNumber": "MGB202",
+  "slot": "D1",
+  "empId": "15981",
+  "empName": "JYOTISMITA CHAKI"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ETH",
+  "classId": "VL2021220502513",
+  "roomNumber": "SJT501",
+  "slot": "D2",
+  "empId": "15981",
+  "empName": "JYOTISMITA CHAKI"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ELA",
+  "classId": "VL2021220502604",
+  "roomNumber": "SJT418",
+  "slot": "L39+L40",
+  "empId": "15981",
+  "empName": "JYOTISMITA CHAKI"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "EPJ",
+  "classId": "VL2021220502605",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15981",
+  "empName": "JYOTISMITA CHAKI"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ELA",
+  "classId": "VL2021220502606",
+  "roomNumber": "SJT418",
+  "slot": "L11+L12",
+  "empId": "15981",
+  "empName": "JYOTISMITA CHAKI"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "EPJ",
+  "classId": "VL2021220502607",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15981",
+  "empName": "JYOTISMITA CHAKI"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ELA",
+  "classId": "VL2021220502842",
+  "roomNumber": "SJT419",
+  "slot": "L21+L22",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "EPJ",
+  "classId": "VL2021220502843",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "16709",
+  "empName": "MURUGAN K"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ELA",
+  "classId": "VL2021220502857",
+  "roomNumber": "SJT419",
+  "slot": "L39+L40",
+  "empId": "17029",
+  "empName": "VENGADESWARAN S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "EPJ",
+  "classId": "VL2021220502858",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "17029",
+  "empName": "VENGADESWARAN S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "ELA",
+  "classId": "VL2021220502859",
+  "roomNumber": "SJT517",
+  "slot": "L13+L14",
+  "empId": "17029",
+  "empName": "VENGADESWARAN S"
+},{
+  "courseCode": "CSE3020",
+  "courseTitle": "Data Visualization",
+  "courseType": "EPJ",
+  "classId": "VL2021220502860",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "17029",
+  "empName": "VENGADESWARAN S"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ETH",
+  "classId": "VL2021220502371",
+  "roomNumber": "MGB 303",
+  "slot": "G1+TG1",
+  "empId": "15755",
+  "empName": "JAYAKUMAR K"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ETH",
+  "classId": "VL2021220502374",
+  "roomNumber": "SJT505",
+  "slot": "G2+TG2",
+  "empId": "15755",
+  "empName": "JAYAKUMAR K"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ETH",
+  "classId": "VL2021220502406",
+  "roomNumber": "MGB110",
+  "slot": "G1+TG1",
+  "empId": "17974",
+  "empName": "HITESHWAR KUMAR AZAD"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ETH",
+  "classId": "VL2021220502408",
+  "roomNumber": "SJT215",
+  "slot": "G2+TG2",
+  "empId": "17974",
+  "empName": "HITESHWAR KUMAR AZAD"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ETH",
+  "classId": "VL2021220502547",
+  "roomNumber": "SJT521",
+  "slot": "G1+TG1",
+  "empId": "16397",
+  "empName": "GOPALAKRISHNAN T"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ELA",
+  "classId": "VL2021220502600",
+  "roomNumber": "SJT416",
+  "slot": "L39+L40",
+  "empId": "16397",
+  "empName": "GOPALAKRISHNAN T"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ELA",
+  "classId": "VL2021220502941",
+  "roomNumber": "SJT419",
+  "slot": "L41+L42",
+  "empId": "17974",
+  "empName": "HITESHWAR KUMAR AZAD"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ELA",
+  "classId": "VL2021220502944",
+  "roomNumber": "SJT515",
+  "slot": "L29+L30",
+  "empId": "17974",
+  "empName": "HITESHWAR KUMAR AZAD"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ELA",
+  "classId": "VL2021220503191",
+  "roomNumber": "SJT316",
+  "slot": "L29+L30",
+  "empId": "15755",
+  "empName": "JAYAKUMAR K"
+},{
+  "courseCode": "CSE3024",
+  "courseTitle": "Web Mining",
+  "courseType": "ELA",
+  "classId": "VL2021220503194",
+  "roomNumber": "SJT316",
+  "slot": "L47+L48",
+  "empId": "15755",
+  "empName": "JAYAKUMAR K"
+},{
+  "courseCode": "CSE3029",
+  "courseTitle": "Game Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502489",
+  "roomNumber": "MB219",
+  "slot": "E1",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE3029",
+  "courseTitle": "Game Programming",
+  "courseType": "ETH",
+  "classId": "VL2021220502490",
+  "roomNumber": "SJT504",
+  "slot": "E2",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE3029",
+  "courseTitle": "Game Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502910",
+  "roomNumber": "SJT621",
+  "slot": "L47+L48",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE3029",
+  "courseTitle": "Game Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220502911",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE3029",
+  "courseTitle": "Game Programming",
+  "courseType": "ELA",
+  "classId": "VL2021220502917",
+  "roomNumber": "SJT517",
+  "slot": "L23+L24",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE3029",
+  "courseTitle": "Game Programming",
+  "courseType": "EPJ",
+  "classId": "VL2021220502918",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15838",
+  "empName": "SURESHKUMAR WI"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502144",
+  "roomNumber": "SJT424",
+  "slot": "G1+TG1",
+  "empId": "13337",
+  "empName": "MANOOV R"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502295",
+  "roomNumber": "SJT224",
+  "slot": "G2+TG2",
+  "empId": "13950",
+  "empName": "PADMA PRIYA R"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502414",
+  "roomNumber": "SJT601",
+  "slot": "G1+TG1",
+  "empId": "17973",
+  "empName": "SANTHANAM RAGHAVAN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502415",
+  "roomNumber": "SJT221",
+  "slot": "G2+TG2",
+  "empId": "17973",
+  "empName": "SANTHANAM RAGHAVAN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502447",
+  "roomNumber": "MGB209",
+  "slot": "G1+TG1",
+  "empId": "17965",
+  "empName": "JOHN PAUL MARTIN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502449",
+  "roomNumber": "SJT422",
+  "slot": "G2+TG2",
+  "empId": "17965",
+  "empName": "JOHN PAUL MARTIN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502562",
+  "roomNumber": "MB219",
+  "slot": "G1+TG1",
+  "empId": "16702",
+  "empName": "PREETHA EVANGELINE D"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ETH",
+  "classId": "VL2021220502565",
+  "roomNumber": "MB214",
+  "slot": "G2+TG2",
+  "empId": "16702",
+  "empName": "PREETHA EVANGELINE D"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502603",
+  "roomNumber": "SJT416",
+  "slot": "L53+L54",
+  "empId": "17973",
+  "empName": "SANTHANAM RAGHAVAN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502608",
+  "roomNumber": "SJT416",
+  "slot": "L9+L10",
+  "empId": "17973",
+  "empName": "SANTHANAM RAGHAVAN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502665",
+  "roomNumber": "SJT416",
+  "slot": "L59+L60",
+  "empId": "13337",
+  "empName": "MANOOV R"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502671",
+  "roomNumber": "SJT416",
+  "slot": "L31+L32",
+  "empId": "16702",
+  "empName": "PREETHA EVANGELINE D"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502675",
+  "roomNumber": "SJT621",
+  "slot": "L11+L12",
+  "empId": "16702",
+  "empName": "PREETHA EVANGELINE D"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502865",
+  "roomNumber": "SJT419",
+  "slot": "L53+L54",
+  "empId": "17965",
+  "empName": "JOHN PAUL MARTIN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220502868",
+  "roomNumber": "SJT517",
+  "slot": "L11+L12",
+  "empId": "17965",
+  "empName": "JOHN PAUL MARTIN"
+},{
+  "courseCode": "CSE3035",
+  "courseTitle": "Principles of Cloud Computing",
+  "courseType": "ELA",
+  "classId": "VL2021220503158",
+  "roomNumber": "SJT515",
+  "slot": "L27+L28",
+  "empId": "13950",
+  "empName": "PADMA PRIYA R"
+},{
+  "courseCode": "CSE3047",
+  "courseTitle": "Predictive Analytics",
+  "courseType": "ETH",
+  "classId": "VL2021220502305",
+  "roomNumber": "SJT522",
+  "slot": "A1",
+  "empId": "14713",
+  "empName": "ILANTHENRAL K P S K"
+},{
+  "courseCode": "CSE3047",
+  "courseTitle": "Predictive Analytics",
+  "courseType": "EPJ",
+  "classId": "VL2021220502306",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "14713",
+  "empName": "ILANTHENRAL K P S K"
+},{
+  "courseCode": "CSE3047",
+  "courseTitle": "Predictive Analytics",
+  "courseType": "ETH",
+  "classId": "VL2021220502307",
+  "roomNumber": "SJT504",
+  "slot": "A2",
+  "empId": "14713",
+  "empName": "ILANTHENRAL K P S K"
+},{
+  "courseCode": "CSE3047",
+  "courseTitle": "Predictive Analytics",
+  "courseType": "EPJ",
+  "classId": "VL2021220502308",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "14713",
+  "empName": "ILANTHENRAL K P S K"
+},{
+  "courseCode": "CSE3050",
+  "courseTitle": "Data Visualization and Presentation",
+  "courseType": "ETH",
+  "classId": "VL2021220501725",
+  "roomNumber": "SJT308",
+  "slot": "C1+TC1",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3050",
+  "courseTitle": "Data Visualization and Presentation",
+  "courseType": "ETH",
+  "classId": "VL2021220501726",
+  "roomNumber": "SJT303",
+  "slot": "C2+TC2",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3050",
+  "courseTitle": "Data Visualization and Presentation",
+  "courseType": "ELA",
+  "classId": "VL2021220501731",
+  "roomNumber": "SJT418",
+  "slot": "L1+L2",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3050",
+  "courseTitle": "Data Visualization and Presentation",
+  "courseType": "ELA",
+  "classId": "VL2021220501732",
+  "roomNumber": "SJT418",
+  "slot": "L45+L46",
+  "empId": "10140",
+  "empName": "MEENAKSHI S P"
+},{
+  "courseCode": "CSE3050",
+  "courseTitle": "Data Visualization and Presentation",
+  "courseType": "ETH",
+  "classId": "VL2021220502580",
+  "roomNumber": "MB311",
+  "slot": "C1+TC1",
+  "empId": "16411",
+  "empName": "VISHNU SRINIVASA MURTHY Y"
+},{
+  "courseCode": "CSE3050",
+  "courseTitle": "Data Visualization and Presentation",
+  "courseType": "ELA",
+  "classId": "VL2021220502599",
+  "roomNumber": "SJT416",
+  "slot": "L43+L44",
+  "empId": "16411",
+  "empName": "VISHNU SRINIVASA MURTHY Y"
+},{
+  "courseCode": "CSE3053",
+  "courseTitle": "Big Data Analytics",
+  "courseType": "ETH",
+  "classId": "VL2021220502234",
+  "roomNumber": "MGB202",
+  "slot": "E1+TE1",
+  "empId": "13703",
+  "empName": "ANURADHA G"
+},{
+  "courseCode": "CSE3053",
+  "courseTitle": "Big Data Analytics",
+  "courseType": "EPJ",
+  "classId": "VL2021220502235",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "13703",
+  "empName": "ANURADHA G"
+},{
+  "courseCode": "CSE3055",
+  "courseTitle": "Deep Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220502326",
+  "roomNumber": "SJT501",
+  "slot": "F2+TF2",
+  "empId": "15194",
+  "empName": "VASANTHA W B"
+},{
+  "courseCode": "CSE3055",
+  "courseTitle": "Deep Learning",
+  "courseType": "EPJ",
+  "classId": "VL2021220502327",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15194",
+  "empName": "VASANTHA W B"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220501752",
+  "roomNumber": "SJT303",
+  "slot": "A1+TA1",
+  "empId": "10366",
+  "empName": "RAJASEKHARA BABU M"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220501753",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "10366",
+  "empName": "RAJASEKHARA BABU M"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220501973",
+  "roomNumber": "SJT322",
+  "slot": "A2+TA2",
+  "empId": "11560",
+  "empName": "GAYATHRI P"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220501974",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11560",
+  "empName": "GAYATHRI P"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220501977",
+  "roomNumber": "SJT308",
+  "slot": "A1+TA1",
+  "empId": "11561",
+  "empName": "SANTHI H"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220501978",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11561",
+  "empName": "SANTHI H"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220501998",
+  "roomNumber": "SJT311A",
+  "slot": "A1+TA1",
+  "empId": "11644",
+  "empName": "SIVANESAN S"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220501999",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "11644",
+  "empName": "SIVANESAN S"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220502044",
+  "roomNumber": "SJT405",
+  "slot": "A2+TA2",
+  "empId": "12389",
+  "empName": "RAMANI S"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220502045",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "12389",
+  "empName": "RAMANI S"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220502340",
+  "roomNumber": "MGB 303",
+  "slot": "A1+TA1",
+  "empId": "15260",
+  "empName": "NAVAMANI T M"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220502341",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15260",
+  "empName": "NAVAMANI T M"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "ETH",
+  "classId": "VL2021220502412",
+  "roomNumber": "MGB207",
+  "slot": "A2+TA2",
+  "empId": "15769",
+  "empName": "DEEBAK B D"
+},{
+  "courseCode": "CSE4003",
+  "courseTitle": "Cyber Security",
+  "courseType": "EPJ",
+  "classId": "VL2021220502413",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "15769",
+  "empName": "DEEBAK B D"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ETH",
+  "classId": "VL2021220502129",
+  "roomNumber": "SJT305",
+  "slot": "A1+TA1",
+  "empId": "12566",
+  "empName": "JAYAKUMAR S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ETH",
+  "classId": "VL2021220502130",
+  "roomNumber": "SJT423",
+  "slot": "A2+TA2",
+  "empId": "12566",
+  "empName": "JAYAKUMAR S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ETH",
+  "classId": "VL2021220502379",
+  "roomNumber": "MGB207",
+  "slot": "G1+TG1",
+  "empId": "15756",
+  "empName": "KATHIRAVAN S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ETH",
+  "classId": "VL2021220502381",
+  "roomNumber": "SJT514",
+  "slot": "G2+TG2",
+  "empId": "15756",
+  "empName": "KATHIRAVAN S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ELA",
+  "classId": "VL2021220502610",
+  "roomNumber": "SJT515",
+  "slot": "L5+L6",
+  "empId": "12566",
+  "empName": "JAYAKUMAR S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ELA",
+  "classId": "VL2021220502611",
+  "roomNumber": "SJT515",
+  "slot": "L37+L38",
+  "empId": "12566",
+  "empName": "JAYAKUMAR S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ELA",
+  "classId": "VL2021220503208",
+  "roomNumber": "SJT515",
+  "slot": "L9+L10",
+  "empId": "15756",
+  "empName": "KATHIRAVAN S"
+},{
+  "courseCode": "CSE4004",
+  "courseTitle": "Digital Forensics",
+  "courseType": "ELA",
+  "classId": "VL2021220503213",
+  "roomNumber": "SJT515",
+  "slot": "L59+L60",
+  "empId": "15756",
+  "empName": "KATHIRAVAN S"
+},{
+  "courseCode": "CSE4015",
+  "courseTitle": "Human Computer Interaction",
+  "courseType": "ETH",
+  "classId": "VL2021220502421",
+  "roomNumber": "SJT222",
+  "slot": "G2+TG2",
+  "empId": "17970",
+  "empName": "JENICKA S"
+},{
+  "courseCode": "CSE4015",
+  "courseTitle": "Human Computer Interaction",
+  "courseType": "EPJ",
+  "classId": "VL2021220502422",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "17970",
+  "empName": "JENICKA S"
+},{
+  "courseCode": "CSE4015",
+  "courseTitle": "Human Computer Interaction",
+  "courseType": "ETH",
+  "classId": "VL2021220502559",
+  "roomNumber": "MB218",
+  "slot": "G1+TG1",
+  "empId": "16700",
+  "empName": "JOSHVA DEVADAS T"
+},{
+  "courseCode": "CSE4015",
+  "courseTitle": "Human Computer Interaction",
+  "courseType": "EPJ",
+  "classId": "VL2021220502560",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "16700",
+  "empName": "JOSHVA DEVADAS T"
+},{
+  "courseCode": "CSE4019",
+  "courseTitle": "Image Processing",
+  "courseType": "ETH",
+  "classId": "VL2021220502065",
+  "roomNumber": "SJT415",
+  "slot": "G1+TG1",
+  "empId": "12529",
+  "empName": "AKILA VICTOR"
+},{
+  "courseCode": "CSE4019",
+  "courseTitle": "Image Processing",
+  "courseType": "EPJ",
+  "classId": "VL2021220502066",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "12529",
+  "empName": "AKILA VICTOR"
+},{
+  "courseCode": "CSE4019",
+  "courseTitle": "Image Processing",
+  "courseType": "ETH",
+  "classId": "VL2021220502067",
+  "roomNumber": "SJT415",
+  "slot": "G2+TG2",
+  "empId": "12529",
+  "empName": "AKILA VICTOR"
+},{
+  "courseCode": "CSE4019",
+  "courseTitle": "Image Processing",
+  "courseType": "EPJ",
+  "classId": "VL2021220502068",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "12529",
+  "empName": "AKILA VICTOR"
+},{
+  "courseCode": "CSE4019",
+  "courseTitle": "Image Processing",
+  "courseType": "ETH",
+  "classId": "VL2021220502317",
+  "roomNumber": "SJT409",
+  "slot": "G2+TG2",
+  "empId": "14816",
+  "empName": "RAJAKUMAR K"
+},{
+  "courseCode": "CSE4019",
+  "courseTitle": "Image Processing",
+  "courseType": "EPJ",
+  "classId": "VL2021220502318",
+  "roomNumber": "NIL",
+  "slot": "NIL",
+  "empId": "14816",
+  "empName": "RAJAKUMAR K"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220501952",
+  "roomNumber": "SJT422",
+  "slot": "C1+TC1",
+  "empId": "11109",
+  "empName": "VISWANATHAN P"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220501962",
+  "roomNumber": "SJT324",
+  "slot": "C2+TC2",
+  "empId": "11226",
+  "empName": "VARALAKSHMI M"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220501968",
+  "roomNumber": "SJT424",
+  "slot": "C1+TC1",
+  "empId": "11473",
+  "empName": "ABDUL GAFFAR H"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220502027",
+  "roomNumber": "SJT322",
+  "slot": "C2+TC2",
+  "empId": "12353",
+  "empName": "GOPINATH M.P"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220502150",
+  "roomNumber": "SJT424",
+  "slot": "C2+TC2",
+  "empId": "11293",
+  "empName": "NALINI N"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502211",
+  "roomNumber": "SJT418",
+  "slot": "L57+L58",
+  "empId": "11109",
+  "empName": "VISWANATHAN P"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502242",
+  "roomNumber": "SJT418",
+  "slot": "L29+L30",
+  "empId": "11226",
+  "empName": "VARALAKSHMI M"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502268",
+  "roomNumber": "SJT418",
+  "slot": "L23+L24",
+  "empId": "11293",
+  "empName": "NALINI N"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220502460",
+  "roomNumber": "MB227",
+  "slot": "C1+TC1",
+  "empId": "17093",
+  "empName": "SIVASANKARI S"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502471",
+  "roomNumber": "SJT418",
+  "slot": "L9+L10",
+  "empId": "12353",
+  "empName": "GOPINATH M.P"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ETH",
+  "classId": "VL2021220502539",
+  "roomNumber": "MB305A",
+  "slot": "C1+TC1",
+  "empId": "16386",
+  "empName": "RUBY D"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502625",
+  "roomNumber": "SJT517",
+  "slot": "L39+L40",
+  "empId": "16386",
+  "empName": "RUBY D"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502861",
+  "roomNumber": "SJT517",
+  "slot": "L45+L46",
+  "empId": "17093",
+  "empName": "SIVASANKARI S"
+},{
+  "courseCode": "CSE4020",
+  "courseTitle": "Machine Learning",
+  "courseType": "ELA",
+  "classId": "VL2021220502937",
+  "roomNumber": "SJT418",
+  "slot": "L41+L42",
+  "empId": "11473",
+  "empName": "ABDUL GAFFAR H"
+},{
+  "courseCode": "CSE4033",
+  "courseTitle": "Cloud Computing and Information Security",
+  "courseType": "ETH",
+  "classId": "VL2021220502269",
+  "roomNumber": "TT619",
+  "slot": "G1",
+  "empId": "15760",
+  "empName": "SUJATHA R"
+},{
+  "courseCode": "CSE4033",
+  "courseTitle": "Cloud Computing and Information Security",
+  "courseType": "ELA",
+  "classId": "VL2021220502270",
+  "roomNumber": "TT729",
+  "slot": "L35+L36",
+  "empId": "15760",
+  "empName": "SUJATHA R"
+}]
