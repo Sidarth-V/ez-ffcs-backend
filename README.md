@@ -1,7 +1,7 @@
 # Backend for ez-ffcs
 
 ## About 
-FFCS (Shortly referred to as FFCS) is a way in which students have complete freedom in tailoring their course and in a way they wish. It accommodates the wants and needs of the entire student community. With this system, a student can prepare his/her own timetable with the specific courses he/she intends to do in that semester along with the timings of classes and choice of professors. 
+Fully Flexible Credit System (Shortly referred to as FFCS) is a way in which students have complete freedom in tailoring their course and in a way they wish. It accommodates the wants and needs of the entire student community. With this system, a student can prepare his/her own timetable with the specific courses he/she intends to do in that semester along with the timings of classes and choice of professors. 
 
 However, in this system there is a drawback as the student has to spend a lot of time figuring out the possible timetable combinations for that semester which can get tedious and demotivating.
 
