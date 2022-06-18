@@ -14,3 +14,4 @@ We aim to make the lives of all VIT students easier by providing them with a pla
 - React
 - SASS
 - Azure (for deployment)
+- Postman (https://documenter.getpostman.com/view/17719113/UzBmLmnQ)
