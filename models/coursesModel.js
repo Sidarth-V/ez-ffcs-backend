@@ -13,7 +13,7 @@ const courseSchema = mongoose.Schema({
   hasLab: {
     type: Boolean,
   },
-  hasProjects: {
+  hasProject: {
     type: Boolean,
   },
 });

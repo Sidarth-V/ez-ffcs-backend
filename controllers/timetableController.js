@@ -1,6 +1,7 @@
 const ClassModel = require("../models/classModel");
 const { createTimeTableSchema } = require("../config/requestSchema");
 const { response } = require("../config/responseSchema");
+const TimetableModel = require("../models/timetableModel");
 
 const allTimetables = async (req, res) => {
   try {
@@ -178,4 +179,37 @@ const allTimetables = async (req, res) => {
   }
 };
 
-module.exports = { allTimetables };
+const saveTimetable = async (req, res) => {
+  try {
+    const timetableExists = await TimetableModel.findOne({
+      timeTable: req.body.timeTable,
+    });
+    const nameExist = await TimetableModel.findOne({
+      name: req.body.timeTableName,
+    });
+    if (timetableExists) {
+      throw new Error("timetable already exists");
+    }
+    if (nameExist) {
+      throw new Error("name already in use");
+    }
+    await new TimetableModel({
+      timeTable: req.body.timeTable,
+      name: req.body.timeTableName,
+    }).save();
+    response(res, { message: "saved" });
+  } catch (err) {
+    response(res, {}, 400, err.message, false);
+  }
+};
+
+const viewSaved = async (req, res) => {
+  try {
+    const allSaved = await TimetableModel.find({});
+    response(res, { timeTables: allSaved });
+  } catch (error) {
+    response(res, {}, 400, err.message, false);
+  }
+};
+
+module.exports = { allTimetables, saveTimetable, viewSaved };
