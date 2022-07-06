@@ -121,6 +121,7 @@ const allTimetables = async (req, res) => {
         } else {
           const classesForCourse = await ClassModel.find({
             courseCode: courses[i].courseCode,
+            rating: { $gte: 3 },
           });
           allClasses.push(classesForCourse);
         }

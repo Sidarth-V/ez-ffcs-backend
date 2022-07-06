@@ -2,7 +2,6 @@ const InitialModel = require("../models/initialModel");
 const FeedbackModel = require("../models/feedbackModel");
 const ClassModel = require("../models/classModel");
 const CourseModel = require("../models/coursesModel");
-const data = require("../data.json");
 const { response } = require("../config/responseSchema");
 
 const createClasses = async (req, res) => {
@@ -109,6 +108,7 @@ const createClasses = async (req, res) => {
 
 const createFeedback = async (req, res) => {
   try {
+    const data = await InitialModel.find({});
     for (let i = 0; i < data.length; i++) {
       const feedbackExists = await FeedbackModel.findOne({
         courseCode: data[i].courseCode,
