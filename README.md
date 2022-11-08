@@ -1,5 +1,8 @@
 # Backend for ez-ffcs
 
+![Logo](https://github.com/Sidarth-V/ez-ffcs-backend/blob/main/logo.png)
+
+
 ## About 
 Fully Flexible Credit System (Shortly referred to as FFCS) is a way in which students have complete freedom in tailoring their course and in a way they wish. It accommodates the wants and needs of the entire student community. With this system, a student can prepare his/her own timetable with the specific courses he/she intends to do in that semester along with the timings of classes and choice of professors. 
 
@@ -10,8 +13,26 @@ We aim to make the lives of all VIT students easier by providing them with a pla
 ## Tools and Technologies used
 - nodejs
 - Express
-- MongoDB
-- React
-- SASS
-- Azure (for deployment)
-- Postman (https://documenter.getpostman.com/view/17719113/UzBmLmnQ)
+- Mongoose
+- Joi
+
+## Getting Started
+To get started:
+- clone the repository. `https://github.com/Sidarth-V/ez-ffcs-backend.git`
+- Checkout to a new branch `git checkout -b my-amazing-new-feature`
+- Make some amazing changes
+- `git add .`
+- `git commit -m "<Verb>: <Action>"`
+- `git push origin my-amazing-feature`
+- Open a pull request :)
+
+**For running this project successfully you'll need to create a `.env` file and store your MongoDB URI. `DB_URI = <Your DB URL>`**
+
+### To start server
+
+```shell
+npm install
+npm start
+```
+
+<p align="center">Made with ❤ by Sidarth Venkatesan</p>
