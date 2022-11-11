@@ -1,4 +1,5 @@
 const FeedbackModel = require("../models/feedbackModel");
+const FeedbackOldModel = require("../models/feedbackOldModel");
 const ClassModel = require("../models/classModel");
 const { response } = require("../config/responseSchema");
 const {
@@ -10,6 +11,39 @@ const viewTeachers = async (req, res) => {
   try {
     const teachers = await FeedbackModel.find({});
     response(res, { teachers });
+  } catch (err) {
+    response(res, {}, 400, err.message, false);
+  }
+};
+
+const viewTeachersOld = async (req, res) => {
+  try {
+    const teachers = await FeedbackOldModel.find({});
+    response(res, { teachers });
+  } catch (err) {
+    response(res, {}, 400, err.message, false);
+  }
+};
+
+const viewTeachersOldForCourse = async (req, res) => {
+  try {
+    const { courseCode } = await viewTeachersForCourseSchema.validateAsync(
+      req.body
+    );
+    const teacherList = await FeedbackOldModel.find(
+      { courseCode: courseCode },
+      {
+        empName: 1,
+        _id: 0,
+      }
+    );
+    const teachersList = teacherList.map((teacher) => {
+      return {
+        value: teacher.empName,
+        label: teacher.empName,
+      };
+    });
+    response(res, { teachers: teachersList });
   } catch (err) {
     response(res, {}, 400, err.message, false);
   }
@@ -50,6 +84,26 @@ const updateFeedback = async (req, res) => {
       { new: true }
     );
     await ClassModel.updateMany(
+      { courseCode: updated.courseCode, empName: updated.empName },
+      { $set: { rating: rating } }
+    );
+    response(res, updated);
+  } catch (err) {
+    response(res, {}, 400, err.message, false);
+  }
+};
+
+const updateOldFeedback = async (req, res) => {
+  try {
+    const { id, rating, feedback } = await updateFeedbackSchema.validateAsync(
+      req.body
+    );
+    let updated = await FeedbackOldModel.findOneAndUpdate(
+      { _id: id },
+      { rating: rating, feedback: feedback },
+      { new: true }
+    );
+    await ClassModel.updateMany(
       { courseCode: updated.courseCode, empId: updated.empId },
       { $set: { rating: rating } }
     );
@@ -59,4 +113,4 @@ const updateFeedback = async (req, res) => {
   }
 };
 
-module.exports = { updateFeedback, viewTeachers, viewTeachersForCourse };
+module.exports = { updateFeedback, viewTeachers, viewTeachersForCourse, updateOldFeedback, viewTeachersOld, viewTeachersOldForCourse };

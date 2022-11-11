@@ -13,7 +13,7 @@ const createClasses = async (req, res) => {
       let courseCode = courses[i];
       let teacherForCourse = await InitialModel.find({
         courseCode,
-      }).distinct("empId");
+      }).distinct("empName");
       uniqTeachers.push({ courseCode: courseCode, teachers: teacherForCourse });
     }
 
@@ -26,17 +26,17 @@ const createClasses = async (req, res) => {
             $or: [
               {
                 courseCode: courseCode,
-                empId: empId,
+                empName: empId,
                 courseType: "ETH",
               },
               {
                 courseCode: courseCode,
-                empId: empId,
+                empName: empId,
                 courseType: "TH",
               },
               {
                 courseCode: courseCode,
-                empId: empId,
+                empName: empId,
                 courseType: "SS",
               },
             ],
@@ -53,12 +53,12 @@ const createClasses = async (req, res) => {
             $or: [
               {
                 courseCode: courseCode,
-                empId: empId,
+                empName: empId,
                 courseType: "LO",
               },
               {
                 courseCode: courseCode,
-                empId: empId,
+                empName: empId,
                 courseType: "ELA",
               },
             ],
@@ -77,7 +77,6 @@ const createClasses = async (req, res) => {
               new ClassModel({
                 courseCode,
                 courseTitle: theoryClass.courseTitle,
-                empId,
                 empName: theoryClass.empName,
                 theorySlot: theoryClass.slot,
                 theoryVenue: theoryClass.roomNumber,
@@ -89,7 +88,6 @@ const createClasses = async (req, res) => {
             new ClassModel({
               courseCode,
               courseTitle: theoryClass.courseTitle,
-              empId,
               empName: theoryClass.empName,
               theorySlot: theoryClass.slot,
               theoryVenue: theoryClass.roomNumber,
@@ -112,12 +110,11 @@ const createFeedback = async (req, res) => {
     for (let i = 0; i < data.length; i++) {
       const feedbackExists = await FeedbackModel.findOne({
         courseCode: data[i].courseCode,
-        empId: data[i].empId,
+        empName: data[i].empName,
       });
       if (!feedbackExists) {
         await new FeedbackModel({
           courseCode: data[i].courseCode,
-          empId: data[i].empId,
           empName: data[i].empName,
           rating: 1,
           feedback: "placeholder text",
@@ -133,6 +130,7 @@ const createFeedback = async (req, res) => {
 
 const createCourses = async (req, res) => {
   try {
+    const data = await InitialModel.find({});
     for (let i = 0; i < data.length; i++) {
       const courseExists = await CourseModel.findOne({
         courseCode: data[i].courseCode,

@@ -35,14 +35,18 @@ app.get("/", (req, res) => {
 
 //Use the routes inside this block to populate the db in the beginning. Do not use this in production.
 
-// const InitialController = require("./controllers/initialController");
-// app.get("/createClasses", InitialController.createClasses);
-// app.get("/createFeedback", InitialController.createFeedback);
-// app.get("/createCourses", InitialController.createCourses);
+const InitialController = require("./controllers/initialController");
+app.get("/createClasses", InitialController.createClasses);
+app.get("/createFeedback", InitialController.createFeedback);
+app.get("/createCourses", InitialController.createCourses);
 
 app.get("/view-teachers", FeedbackController.viewTeachers);
 app.post("/view-teachers", FeedbackController.viewTeachersForCourse);
 app.post("/update-feedback", FeedbackController.updateFeedback);
+
+app.get("/view-teachers-old", FeedbackController.viewTeachersOld);
+app.post("/view-teachers", FeedbackController.viewTeachersOldForCourse);
+app.post("/update-feedback", FeedbackController.updateOldFeedback);
 
 app.get("/view-courses", CoursesControllers.viewCourses);
 
