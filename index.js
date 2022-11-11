@@ -53,6 +53,7 @@ app.get("/view-courses", CoursesControllers.viewCourses);
 app.post("/all-timetables", TimetableController.allTimetables);
 app.post("/save-timetable", TimetableController.saveTimetable);
 app.get("/view-saved", TimetableController.viewSaved);
+app.post("/view-slots", TimetableController.slotsForTeacher);
 
 app.listen(PORT, () => {
   console.log("🚀 Server Ready! at port:", PORT);

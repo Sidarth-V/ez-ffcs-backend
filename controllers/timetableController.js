@@ -113,11 +113,21 @@ const allTimetables = async (req, res) => {
       let allClasses = [];
       for (let i = 0; i < courses.length; i++) {
         if (courses[i].teacher) {
-          const classesForCourse = await ClassModel.find({
-            courseCode: courses[i].courseCode,
-            empName: courses[i].teacher,
-          });
-          allClasses.push(classesForCourse);
+          if(courses[i].slot) {
+            const classesForCourse = await ClassModel.find({
+              courseCode: courses[i].courseCode,
+              empName: courses[i].teacher,
+              theorySlot: courses[i].slot
+            });
+            allClasses.push(classesForCourse);
+          }
+          else {
+            const classesForCourse = await ClassModel.find({
+              courseCode: courses[i].courseCode,
+              empName: courses[i].teacher,
+            });
+            allClasses.push(classesForCourse);
+          }
         } else {
           const classesForCourse = await ClassModel.find({
             courseCode: courses[i].courseCode,
@@ -213,4 +223,17 @@ const viewSaved = async (req, res) => {
   }
 };
 
-module.exports = { allTimetables, saveTimetable, viewSaved };
+const slotsForTeacher = async (req, res) => {
+  try {
+    const { courseCode, empName } = req.body;
+    const slotsForEmp = await ClassModel.find({
+      courseCode: courseCode,
+      empName: empName
+    }).distinct("theorySlot");
+    console.log(slotsForEmp);
+    response(res, { slots: slotsForEmp });
+  } catch (err) {
+    response(res, {}, 400, err.message, false);
+  }
+}
+module.exports = { allTimetables, saveTimetable, viewSaved, slotsForTeacher };

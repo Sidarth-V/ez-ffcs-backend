@@ -18,6 +18,7 @@ exports.createTimeTableSchema = Joi.object({
           .regex(/^([a-zA-Z]{3}[0-9]{4})$/)
           .required(),
         teacher: Joi.string().allow(""),
+        slot: Joi.string().allow(""),
       })
     )
     .required(),
